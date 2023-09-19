@@ -1,4 +1,3 @@
-![svg (1)](https://github.com/Lynx-Anticheat/.github/assets/72650902/d9377502-94ec-4b54-9c19-d14646993bbd)
 
 # Lynx Anticheat
 
@@ -13,6 +12,7 @@ Lynx Anticheat is an all-in-one anti-cheat solution designed for Minecraft serve
 | AntiVPN | NO MORE HACKERS ON ALTS!! | ❌ |
 | [bStats](https://bstats.org/) | Collect usage data | ❌ |
 | [Redis](https://redis.io/) | Cross-server alerts | ❌ |
+| Hider | Plugin hider | ❌ |
 | Config | Anti-cheat customization | ❌ |
 
 ## Checks
@@ -53,4 +53,3 @@ Lynx Anticheat is an all-in-one anti-cheat solution designed for Minecraft serve
 ## Credits
 - Soon™️
 
-![svg](https://github.com/Lynx-Anticheat/.github/assets/72650902/2645e78f-f242-486d-ad9f-103adf64aa50)
