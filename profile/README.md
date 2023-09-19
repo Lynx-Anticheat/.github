@@ -49,6 +49,7 @@ Lynx Anticheat is an all-in-one anti-cheat solution designed for Minecraft serve
 -  [Cyanade](https://github.com/Cyanade/)
 -  [Hunter171](https://github.com/Hunter-171/)
 -  [EpicCatto (Pat)](https://github.com/EpicCatto)
+-  [FinalBoolean](https://github.com/FinalBoolean)
 
 ## Credits
 - Soon™️
