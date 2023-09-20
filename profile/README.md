@@ -37,6 +37,16 @@ Lynx Anticheat is an all-in-one anti-cheat solution designed for Minecraft serve
 </details>
 
 <details> 
+    <summary><h3>Player</h3></summary>
+
+| Check      | Description                          | Status |
+|------------|--------------------------------------|:-------:|
+| Scaffold   | Detect unusual block-place activity  | ❌ |
+
+</details>
+
+
+<details> 
     <summary><h3>Misc</h3></summary>
 
 | Check      | Description                          | Status |
