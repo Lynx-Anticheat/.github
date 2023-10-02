@@ -26,7 +26,6 @@ Lynx Anticheat is an advanced all-in-one anti-cheat solution for Minecraft serve
 | Killaura   | Detect flaws in hacked clients killauras | ❌ |
 | Analysis   | Heuristic combat analysis (clicking, rotations, movement and accuracy) | ❌ |
 | AutoClicker | Detect suspicous or impossible clicking patterns | ❌ |
-
 </details>
 
 <details> 
@@ -64,9 +63,10 @@ Lynx Anticheat is an advanced all-in-one anti-cheat solution for Minecraft serve
 
 ## Developers
 -  [Cyanade](https://github.com/Cyanade/)
--  [Hunter171](https://github.com/Hunter-171/)
--  [EpicCatto (Pat)](https://github.com/EpicCatto)
 -  [FinalBoolean](https://github.com/FinalBoolean)
+-  [EpicCatto (Pat)](https://github.com/EpicCatto)
+-  [Preceding](https://github.com/Precedingxd)
+-  [Hunter171](https://github.com/Hunter-171/)
 
 ## Credits
 - Soon™️
