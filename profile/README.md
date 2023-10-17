@@ -10,8 +10,8 @@ Lynx Anticheat is an advanced all-in-one anti-cheat solution for Minecraft serve
 | [Anti-VPN](https://en.wikipedia.org/wiki/Proxy_server) | Prevent any cheaters trying to bypass ip bans using proxies | ❌ |
 | [bStats](https://bstats.org/) | Collect usage data | ❌ |
 | [Redis](https://redis.io/) | Cross-server alerts | ❌ |
-| Hider | Hide the plugin completely | ❌ |
-| Config | Easily customize Lynx to your needs | ❌ |
+| Hider | Hide the plugin completely | ✔️ |
+| Config | Easily customize Lynx to your needs | ✔️ |
 | [Cheat Detection](https://github.com/Lynx-Anticheat#Checks) | Easily detect and mitigate cheats reliabily | ❌ |
 
 ## Checks
@@ -20,10 +20,10 @@ Lynx Anticheat is an advanced all-in-one anti-cheat solution for Minecraft serve
 
 | Check      | Description                          | Status |
 |------------|--------------------------------------|:-------:|
-| Aim        | Detect suspicous aiming patterns or flaws in a players rotations | ❌ |
-| Reach      | Detect anyone reaching above the usual 3.0 | ❌ |
-| Hitbox     | Detect anyone not hitting inside the correct hitbox | ❌ |
-| Killaura   | Detect flaws in hacked clients killauras | ❌ |
+| Aim        | Detect suspicous aiming patterns or flaws in a players rotations | ✔️ |
+| Reach      | Detect anyone reaching above the hard coded limit of 3.0 | ✔️ |
+| Hitbox     | Detect anyone not hitting inside the correct hitbox | ✔️ |
+| Killaura   | Detect flaws in hacked clients killauras | ✔️ |
 | Analysis   | Heuristic combat analysis (clicking, rotations, movement and accuracy) | ❌ |
 | AutoClicker | Detect suspicous or impossible clicking patterns | ❌ |
 </details>
@@ -33,8 +33,8 @@ Lynx Anticheat is an advanced all-in-one anti-cheat solution for Minecraft serve
 
 | Check      | Description                          | Status |
 |------------|--------------------------------------|:-------:|
-| Simulation | Detect any movements that violate vanilla protocol | ❌ |
-| Velocity   | Checks if the player received velocity properly | ❌ |
+| Simulation | Detect any movements that violate vanilla protocol | ✔️ |
+| Velocity   | Checks if the player received velocity properly | ✔️ |
 | Flight     | Player tries to defy gravity | ❌ |
 | Speed      | Player tries to go faster than the speed limits of the universe | ❌ |
 
@@ -56,8 +56,8 @@ Lynx Anticheat is an advanced all-in-one anti-cheat solution for Minecraft serve
 
 | Check      | Description                          | Status |
 |------------|--------------------------------------|:-------:|
-| Inventory  | Detect unusual inventory activity (too fast or moving)  | ❌ |
-| Packet     | Detect players sending impossible packets (ping spoof, etc)  | ❌ |
+| Inventory  | Detect unusual inventory activity (too fast or moving)  | ✔️ |
+| Packet     | Detect players sending impossible packets (ping spoof, etc)  | ✔️ |
 
 </details>
 
