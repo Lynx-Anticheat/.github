@@ -6,13 +6,13 @@ Lynx Anticheat is an advanced all-in-one anti-cheat solution for Minecraft serve
 ## Features
 | Feature | Description | Status |
 | ------------- |:-------------:| :-----:|
-| [Multi Threading](https://towardsdatascience.com/multithreading-and-multiprocessing-in-10-minutes-20d9b3c6a867) | By leveraging multi threading we can minimize impact of server performance | ❌ |
+| [Multi Threading](https://towardsdatascience.com/multithreading-and-multiprocessing-in-10-minutes-20d9b3c6a867) | By leveraging multi threading we can minimize impact of server performance | ✔️ |
 | [Anti-VPN](https://en.wikipedia.org/wiki/Proxy_server) | Prevent any cheaters trying to bypass ip bans using proxies | ❌ |
 | [bStats](https://bstats.org/) | Collect usage data | ❌ |
-| [Redis](https://redis.io/) | Cross-server alerts | ❌ |
+| [Redis](https://redis.io/) | Cross-server alerts | ✔️ |
 | Hider | Hide the plugin completely | ✔️ |
 | Config | Easily customize Lynx to your needs | ✔️ |
-| [Cheat Detection](https://github.com/Lynx-Anticheat#Checks) | Easily detect and mitigate cheats reliabily | ❌ |
+| [Cheat Detection](https://github.com/Lynx-Anticheat#Checks) | Easily detect and mitigate cheats reliabily | ✔️ |
 
 ## Checks
 <details> 
@@ -35,8 +35,6 @@ Lynx Anticheat is an advanced all-in-one anti-cheat solution for Minecraft serve
 |------------|--------------------------------------|:-------:|
 | Simulation | Detect any movements that violate vanilla protocol | ✔️ |
 | Velocity   | Checks if the player received velocity properly | ✔️ |
-| Flight     | Player tries to defy gravity | ❌ |
-| Speed      | Player tries to go faster than the speed limits of the universe | ❌ |
 
 </details>
 <details> 
@@ -44,9 +42,9 @@ Lynx Anticheat is an advanced all-in-one anti-cheat solution for Minecraft serve
 
 | Check      | Description                          | Status |
 |------------|--------------------------------------|:-------:|
-| Scaffold   | Detect unusual block-placing activity  | ❌ |
-| FastBreak  | Detect unusual block-breaking activity  | ❌ |
-| Interact   | Detect impossible player interactions (raytrace, fast use, etc)  | ❌ |
+| Scaffold   | Detect unusual block-placing activity  | ✔️ |
+| FastBreak  | Detect unusual block-breaking activity  | ✔️ |
+| Interact   | Detect impossible player interactions (raytrace, fast use, etc)  | ✔️ |
 
 </details>
 
